@@ -1,2 +1,2 @@
 # Weaviate
-Trying out the weaviate vector database
+Trying out the [weavitate](https://weaviate.io/) vector database
